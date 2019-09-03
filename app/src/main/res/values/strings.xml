@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Split Bill</string>
+    <string name="split_the_bill">Split the Bill</string>
+    <string name="prompt_people">Number of People</string>
+    <string name="prompt_bill">Bill Amount</string>
+    <string name="prompt_tip">Do you want to add a tip?</string>
+    <string name="change_tip_percentage">Change Tip Percentage</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="new_bill">New Bill</string>
+    <string name="current_tip">Slide to change Tip Percentage</string>
+    <string name="submit_new_tip">Submit new tip %</string>
+</resources>
